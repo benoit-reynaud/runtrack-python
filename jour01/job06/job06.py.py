@@ -1,0 +1,1 @@
+ma_string = "je suis un String"
